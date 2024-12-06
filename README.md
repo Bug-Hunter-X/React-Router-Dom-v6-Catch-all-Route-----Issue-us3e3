@@ -1,0 +1,1 @@
+This repository demonstrates a common issue encountered when using catch-all routes ("*" route) in React Router Dom v6. The catch-all route is unexpectedly not working as expected, and this example shows how to solve it.  The solution involves carefully ordering the routes to ensure the catch-all route is placed last.
